@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "function.h"
-#include "test_function.h"
 int main()
 {
     int choice;
-    float input1,result,trigoutput;
+    double input1,result,trigoutput;
     printf("\nPlease select the required operation to be performed \n");
     printf("1.celsius_fahrenheit\n");
     printf("2.kelvin_fahrenheit\n");
@@ -53,6 +52,5 @@ int main()
             break;
 
     }
-test_main();
     return 0;
 }
