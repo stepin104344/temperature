@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1607170260 source:c:\users\user\desktop\rame\src\function.c
+	<function.h>
+
+1607166727 c:\users\user\desktop\rame\inc\function.h
+
+1607169880 source:c:\users\user\desktop\rame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+	"test_function.h"
+
+1607138767 source:c:\users\user\desktop\rame\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1607138767 c:\users\user\desktop\rame\unity\unity.h
+	"unity_internals.h"
+
+1607138767 c:\users\user\desktop\rame\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1607168627 source:c:\users\user\desktop\rame\test\test_function.c
+	"unity.h"
+	"function.h"
+
+1607169786 c:\users\user\desktop\rame\test\test_function.h
+
